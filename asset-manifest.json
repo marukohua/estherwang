@@ -1,22 +1,21 @@
 {
   "files": {
-    "main.css": "/estherwang/static/css/main.b100e6da.chunk.css",
-    "main.js": "/estherwang/static/js/main.816dd117.chunk.js",
-    "main.js.map": "/estherwang/static/js/main.816dd117.chunk.js.map",
+    "main.css": "/estherwang/static/css/main.f50038d6.chunk.css",
+    "main.js": "/estherwang/static/js/main.06659b0e.chunk.js",
+    "main.js.map": "/estherwang/static/js/main.06659b0e.chunk.js.map",
     "runtime-main.js": "/estherwang/static/js/runtime-main.3d5e978b.js",
     "runtime-main.js.map": "/estherwang/static/js/runtime-main.3d5e978b.js.map",
-    "static/js/2.3110ed7d.chunk.js": "/estherwang/static/js/2.3110ed7d.chunk.js",
-    "static/js/2.3110ed7d.chunk.js.map": "/estherwang/static/js/2.3110ed7d.chunk.js.map",
+    "static/js/2.c7cc0458.chunk.js": "/estherwang/static/js/2.c7cc0458.chunk.js",
+    "static/js/2.c7cc0458.chunk.js.map": "/estherwang/static/js/2.c7cc0458.chunk.js.map",
     "index.html": "/estherwang/index.html",
-    "precache-manifest.2063eff10700bac74f2d986412f60605.js": "/estherwang/precache-manifest.2063eff10700bac74f2d986412f60605.js",
+    "precache-manifest.0dad0a85b78355eabbd546592771a230.js": "/estherwang/precache-manifest.0dad0a85b78355eabbd546592771a230.js",
     "service-worker.js": "/estherwang/service-worker.js",
-    "static/css/main.b100e6da.chunk.css.map": "/estherwang/static/css/main.b100e6da.chunk.css.map",
-    "static/media/logo.svg": "/estherwang/static/media/logo.25bf045c.svg"
+    "static/css/main.f50038d6.chunk.css.map": "/estherwang/static/css/main.f50038d6.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.3d5e978b.js",
-    "static/js/2.3110ed7d.chunk.js",
-    "static/css/main.b100e6da.chunk.css",
-    "static/js/main.816dd117.chunk.js"
+    "static/js/2.c7cc0458.chunk.js",
+    "static/css/main.f50038d6.chunk.css",
+    "static/js/main.06659b0e.chunk.js"
   ]
 }
